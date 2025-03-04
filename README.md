@@ -1,7 +1,7 @@
 ## Hi, I'm Nuruzzaman! 👋
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/143626417?s=400&u=e35e0a3df8dd55287c59d2b36c81fecd19fbff79&v=4" alt="Nuruzzaman - Full Stack Developer"/>
+  <img src="https://avatars.githubusercontent.com/u/143626417?s=400&u=406ee741520b834ea62fe3be15be20c39aaddcc1&v=4" alt="Nuruzzaman - Full Stack Developer"/>
 </p>
 
 ---
