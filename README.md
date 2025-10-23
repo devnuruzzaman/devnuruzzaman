@@ -1,65 +1,56 @@
-Here is the complete, enhanced code for your GitHub README, combining all the suggestions into one polished file.
-
-```markdown
-# Nuruzzaman 👋
+Hi, I'm Nuruzzaman! 👋
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/143626417?s=400&u=406ee741520b834ea62fe3be15be20c39aaddcc1&v=4" 
-       alt="Nuruzzaman - Full Stack Developer" 
-       width="150" height="150" 
-       style="border-radius: 50%; border: 3px solid #21759B;"> 
+<img src="https://avatars.githubusercontent.com/u/143626417?s=400&u=406ee741520b834ea62fe3be15be20c39aaddcc1&v=4"
+alt="Nuruzzaman - Full Stack Developer"
+width="150" height="150"
+style="border-radius: 50%;">
 </p>
 
-<h2 align="center">Full Stack WordPress Developer & Problem Solver</h2>
+🚀 Full Stack WordPress Developer
 
----
+💻 Passionate about crafting high-quality, error-free websites with 100% client satisfaction. I love solving real-world problems with code.
 
-## 🎯 Core Focus & Philosophy
+🔎 Focused on WordPress, Laravel, and PHP to deliver dynamic & scalable solutions.
+🎯 Strategic & goal-oriented with a sharp eye for detail.
 
-I specialize in building **robust, high-quality WordPress solutions** while leveraging **Laravel/PHP** for complex, scalable backends. My goal is to translate **real-world business problems** into elegant, error-free code, ensuring **100% client satisfaction**.
+🛠️ Tech Stack & Skills
 
-* **Strategic & Goal-Oriented:** Sharp eye for detail ensuring deliverables meet objectives.
-* **Primary Stack:** WordPress, Laravel, PHP.
-
----
-
-## 🛠️ Technical Arsenal
-
-Here are the primary technologies I use to bring ideas to life:
+Here are some of the main technologies I work with:
 
 <p align="center">
-  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Laravel-FF2D20%3Fstyle%3Dfor-the-badge%26logo%3Dlaravel%26logoColor%3Dwhite" alt="Laravel Badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS Badge"/>
 </p>
 
----
+📊 GitHub Stats
 
-<h2 align="center">📊 GitHub Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devnuruzzaman&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnuruzzaman&theme=radical" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnuruzzaman&layout=compact&theme=radical" width="98%" /> 
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddevnuruzzaman%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" width="48%" alt="Nuruzzaman's GitHub Stats"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddevnuruzzaman%26theme%3Dradical%26hide_border%3Dtrue" width="48%" alt="Nuruzzaman's Streak Stats"/>
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddevnuruzzaman%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" width="48%" alt="Nuruzzaman's Top Languages"/>
 </div>
 
----
+🌐 Connect With Me
 
-<h2 align="center">🌐 Let's Connect</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/devnuruzzaman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/devnuruzzamanbd_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.facebook.com/devnuruzzaman.74"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/devnuruzzaman.2022"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/devnuruzzaman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devnuruzzaman" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://twitter.com/devnuruzzamanbd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+<a href="https://www.facebook.com/devnuruzzaman.74" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+<a href="https://www.instagram.com/devnuruzzaman.2022" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 
----
+📧 Business Inquiries
 
-## 📧 Business Inquiries
-📩 **Email:** [nuruzzamanbce1@gmail.com](mailto:nuruzzamanbce1@gmail.com)
-```
+📩 Email: nuruzzamanbce1@gmail.com
