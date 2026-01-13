@@ -54,12 +54,12 @@ style="border-radius: 50%; border: 3px solid #4A90E2; box-shadow: 0 4px 8px rgba
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnuruzzaman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9&icon_color=4A90E2" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnuruzzaman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnuruzzaman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnuruzzaman&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devnuruzzaman&theme=radical&hide_border=true&background=0D1117&stroke=4A90E2&ring=4A90E2&fire=FFB86C&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devnuruzzaman&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
