@@ -110,13 +110,13 @@ style="border-radius: 50%; border: 3px solid #4A90E2; box-shadow: 0 4px 8px rgba
 ### 🎉 Visitor Counter
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/devnuruzzaman/count.svg" alt="Visitor Count"/>
+<img src="https://komarev.com/ghpvc/?username=devnuruzzaman&color=brightgreen" alt="Visitor Count"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/devnuruzzaman/devnuruzzaman/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<img src="https://github.com/devnuruzzaman/devnuruzzaman/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
 
 <div align="center">
