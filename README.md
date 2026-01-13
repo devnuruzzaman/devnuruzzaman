@@ -1,56 +1,123 @@
-Hi, I'm Nuruzzaman! 👋
+# Hi, I'm Nuruzzaman! 👋
 
-<p align="center">
+<div align="center">
 <img src="https://avatars.githubusercontent.com/u/143626417?s=400&u=406ee741520b834ea62fe3be15be20c39aaddcc1&v=4"
 alt="Nuruzzaman - Full Stack Developer"
 width="150" height="150"
-style="border-radius: 50%;">
-</p>
-
-🚀 Full Stack WordPress Developer
-
-💻 Passionate about crafting high-quality, error-free websites with 100% client satisfaction. I love solving real-world problems with code.
-
-🔎 Focused on WordPress, Laravel, and PHP to deliver dynamic & scalable solutions.
-🎯 Strategic & goal-oriented with a sharp eye for detail.
-
-🛠️ Tech Stack & Skills
-
-Here are some of the main technologies I work with:
-
-<p align="center">
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
-<img src="[https://img.shields.io/badge/Laravel-FF2D20%3Fstyle%3Dfor-the-badge%26logo%3Dlaravel%26logoColor%3Dwhite](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)" alt="Laravel Badge"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
-<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS Badge"/>
-</p>
-
-📊 GitHub Stats
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddevnuruzzaman%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" width="48%" alt="Nuruzzaman's GitHub Stats"/>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddevnuruzzaman%26theme%3Dradical%26hide_border%3Dtrue" width="48%" alt="Nuruzzaman's Streak Stats"/>
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddevnuruzzaman%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" width="48%" alt="Nuruzzaman's Top Languages"/>
+style="border-radius: 50%; border: 3px solid #4A90E2; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
 
-🌐 Connect With Me
+## 🚀 Full Stack WordPress Developer | PHP & Laravel Expert
 
 <div align="center">
-<a href="https://www.linkedin.com/in/devnuruzzaman" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://twitter.com/devnuruzzamanbd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-<a href="https://www.facebook.com/devnuruzzaman.74" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-<a href="https://www.instagram.com/devnuruzzaman.2022" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+about+clean%2C+scalable+code;100%25+client+satisfaction+guaranteed;WordPress+%7C+PHP+%7C+Laravel+%7C+JavaScript" alt="Typing SVG" /></a>
 </div>
 
-📧 Business Inquiries
+---
 
-📩 Email: nuruzzamanbce1@gmail.com
+### 🎯 About Me
+
+💻 **Full Stack WordPress Developer** with expertise in crafting high-quality, error-free websites that deliver exceptional user experiences. I'm passionate about solving real-world problems with clean, efficient code and maintaining 100% client satisfaction.
+
+🔎 **Tech Focus**: WordPress, Laravel, and PHP to deliver dynamic & scalable solutions that drive business growth.
+
+🎯 **Strategic Approach**: Goal-oriented developer with a sharp eye for detail and commitment to excellence in every project.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+#### **Frontend Development**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
+
+#### **Backend Development**
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
+#### **Tools & Platforms**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnuruzzaman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9&icon_color=4A90E2" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnuruzzaman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9" alt="Top Languages"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devnuruzzaman&theme=radical&hide_border=true&background=0D1117&stroke=4A90E2&ring=4A90E2&fire=FFB86C&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🏆 Achievements & Highlights
+
+- 🌟 **Top Rated Seller** on Fiverr with 100+ successful projects
+- 🚀 **5-Star Reviews** consistently delivered across all platforms
+- 💡 **Problem Solver**: Expert in debugging and optimizing WordPress performance
+- 🎨 **UI/UX Enthusiast**: Creating beautiful, responsive designs that convert
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+#### **Professional Networks**
+<a href="https://www.linkedin.com/in/devnuruzzaman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/devnuruzzamanbd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+
+#### **Social Media**
+<a href="https://www.facebook.com/devnuruzzaman.74" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/devnuruzzaman.2022" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+#### **Business & Freelance**
+<a href="https://www.fiverr.com/devnuruzzamanbd" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+
+</div>
+
+---
+
+### 📧 Business Inquiries
+
+<div align="center">
+
+**📩 Email:** [nuruzzamanbce1@gmail.com](mailto:nuruzzamanbce1@gmail.com)
+
+**📍 Location:** Rangpur, Dhaka, Bangladesh
+
+**⏰ Available:** Open for freelance projects and collaborations
+
+</div>
+
+---
+
+### 🎉 Visitor Counter
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/devnuruzzaman/count.svg" alt="Visitor Count"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devnuruzzaman/devnuruzzaman/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</div>
+
+<div align="center">
+<strong>⭐ If you like my work, give it a star! ⭐</strong>
+</div>
