@@ -4,7 +4,7 @@
 <img src="https://avatars.githubusercontent.com/u/143626417?s=400&u=406ee741520b834ea62fe3be15be20c39aaddcc1&v=4"
 alt="Nuruzzaman - Full Stack Developer"
 width="150" height="150"
-style="border-radius: 50%; border: 3px solid #4A90E2; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+style="border-radius: 50%; border: 3px solid #4A90E2; box-shadow: 0 4px 8px rgba(0,0,0,0.2); object-fit: cover; clip-path: circle(75px at center);">
 </div>
 
 ## 🚀 Full Stack WordPress Developer | PHP & Laravel Expert
