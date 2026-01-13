@@ -116,7 +116,7 @@ style="border-radius: 50%; border: 3px solid #4A90E2; box-shadow: 0 4px 8px rgba
 ---
 
 <div align="center">
-<img src="https://github.com/devnuruzzaman/devnuruzzaman/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devnuruzzaman&theme=radical&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <div align="center">
